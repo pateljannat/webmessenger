@@ -1,4 +1,4 @@
-#WebMessenger
+# WebMessenger
 
 Webmessenger is a simplified clone of the facebook messenger app. It is build using React and Firebase.
 
